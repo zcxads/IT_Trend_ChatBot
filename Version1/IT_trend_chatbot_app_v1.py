@@ -17,8 +17,8 @@ from langchain_community.chat_message_histories import ChatMessageHistory
 
 
 ########################################## 경로 지정 ##################################################
-VECTOR_STORE_PATH = "/IT_trend_chatbot/faiss_db" # 깃허브 경로 연결
-#VECTOR_STORE_PATH = "./faiss_db"
+#VECTOR_STORE_PATH = "/IT_trend_chatbot/faiss_db" # 깃허브 경로 연결
+VECTOR_STORE_PATH = "./faiss_db"
 #VECTOR_STORE_PATH = 'Version1/faiss_db'
 CACHE_DIR = ".cache"
 EMBEDDINGS_DIR = ".cache/embeddings"
