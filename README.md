@@ -6,7 +6,7 @@
 - https://it-trend-chatbot-app-v1.streamlit.app
 
 ## 문제 정의
-- 2020년부터 2024년 현재까지의 AI 기사 데이터를 이용하여 최신 트렌드 파악
+- 2020년부터 2024년 현재까지의 AI 기사 데이터를 이용하여 최신 IT 트렌드 파악
 - RAG, 프롬프트 엔지니어링을 활용한 LLM 기반 챗봇 구현
 
 ## Directory Structure
