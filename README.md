@@ -28,16 +28,6 @@
 └── vector_db.py
 ```
 
-## Description
-- `data/`: 학습데이터/평가데이터 csv 파일 
-- `configs/`: accelerate 및 fsdp config 파일
-- `utils.py`: 학습 및 추론하는데 필요한 함수들 정리한 python script
-- `train.py`: LLM 모델 학습하는 python script
-- `inference.py`: LLM 모델 추론하는 python script
-- `run.sh`: LLM 모델 config 값 설정하여 train.py 실행하는 shell script
-- `sample_submission.csv`: 제출 csv 파일 예시
- 
-
 ## Getting Started
 - 가상환경 생성 : `python3 -m venv .venv`
 - 가상환경 활성화 : `source .venv/bin/activate`
