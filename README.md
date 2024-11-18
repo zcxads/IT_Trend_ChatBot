@@ -1,4 +1,4 @@
-# 최신 AI 기사를 참조한 챗봇 프로젝트
+# Langchain을 활용한 IT 트렌드 챗봇 개발
 - news articles data RAG ChatBot
 - Version1 완료 후 Version2 branch 생성해서 업그레이드 작업 진행
 
